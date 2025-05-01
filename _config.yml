@@ -11,7 +11,7 @@ locale                   : "en-US"
 site_theme               : "default"
 title                    : ""
 title_separator          : "-"
-name                     : &name "Yue Wang"
+name                     : &name "Yw"
 description              : &description "personal description"
 url                      : https://ywang2597.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io" or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -23,13 +23,13 @@ repository               : "academicpages/academicpages.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Yue Wang"
+  name             : "Yw"
 #  pronouns         : # example: "she/her"  
-  bio              : "Assistant professor at USTC"
+#  bio              : "Assistant professor at USTC"
   location         : "Hefei, Anhui, China"
-  employer         : "USTC"
+#  employer         : "USTC"
    uri              : # URL
-  email            : "wangyue5@ustc.edu.cn" 
+#  email            : "wangyue5@ustc.edu.cn" 
 
   # Academic websites
 #  academia         : # URL
